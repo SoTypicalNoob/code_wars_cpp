@@ -1,0 +1,6 @@
+[requires]
+gmp/6.2.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
